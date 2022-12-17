@@ -4,11 +4,11 @@ These are official, localized versions of the OpenWindows license created by the
 
 ## List of Languages
 
-- [日本語](#日本語)
-- [Pirate](#pirate)
-- [Latin](#latin)
-- [International English](#international-english)
 - [English](#english)
+- [International English](#international-english)
+- [Latin](#latin)
+- [Pirate](#pirate)
+- [日本語](#日本語)
 ## Languages
 ### 日本語
 ```
