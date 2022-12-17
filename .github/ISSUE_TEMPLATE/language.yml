@@ -1,1 +1,16 @@
-
+name: Language Request
+description: Request a new language
+title: "Language request: "
+body:
+- type: input
+  id: language
+  attributes:
+    label: Language
+    placeholder: Please type the full name of the language
+- type: checkboxes
+  id: real-language
+  attributes:
+    label: By submitting this request, you agree that this language actually exists.
+    options:
+      - label: I agree
+        required: true
