@@ -1,5 +1,15 @@
 # FreeNT OpenWindows License
 
+These are official, localized versions of the OpenWindows license created by the OpenWindows project.
+
+## Languages
+
+[日本語](#日本語)
+[Pirate](#Pirate)
+[Latin](#Latin)
+[American English](#American English)
+[International English](#International English)
+
 ## 日本語
 ```
      Open Windows ライセンス、バージョン 1.0
