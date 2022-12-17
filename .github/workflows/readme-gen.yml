@@ -10,13 +10,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Run README generator
         run: python readme_generate.py
-      - name: Verified commit
-        # You may pin to the exact commit or the version.
-        # uses: swinton/commit@bfa68d879ec57187f2c5bf616158433763f05f06
-        uses: swinton/commit@v2.0.0
+      - uses: actions-go/push@master
         with:
-          # Newline-separated list of files to be committed, relative to root of repository.
-          files: |
-            README.md
-          # Commit message to be used
-          commit-message: "Generate README"
+          commit-message: 'Generate README'
+          remote: origin
