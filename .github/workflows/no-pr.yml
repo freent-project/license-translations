@@ -8,5 +8,13 @@ jobs:
   close:
     runs-on: ubuntu-latest
     steps:
-      - name: Close
-        uses: superbrothers/close-pull-request@v3.0.0
+      - name: Close pull
+        uses: peter-evans/close-pull@v2.0.1
+        with:
+          comment: |
+            Please visit https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml to submit a new language. Any other contributions are not accepted.
+            
+            Don't panic, there are plenty of FreeNT and OpenWindows projects you can contribute to:
+            - :computer: [OpenWindows](https://github.com/freent-project/openwindows): The open-source Windows system
+            - :shipit: [FreeNT](https://github.com/freent-project/freent): The kernel for OpenWindows, with full module support, written in C
+            - :window: [Win32 OpenWindows Module](https://github.com/freent-project/freent-module-win32): Support for proprietary Windows programs via a simple VM
