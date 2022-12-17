@@ -6,7 +6,7 @@ f = open("readme.md", "w")
 for file in sorted(glob.glob("*/*.license")):
   readme = readme + "- [" + os.path.basename(file).split(".")[0] + "](#" + os.path.basename(file).split(".")[0].replace(" ", "-").lower() + ")\n"
 readme = readme + "## Languages"
-for file in glob.glob("*/*.license"):
+for file in sorted(glob.glob("*/*.license")):
   print(file + ":")
   print(open(file, "r").read())
   readme = readme + "\n### " + os.path.basename(file).split(".")[0] + "\n```\n" + open(file, "r").read() + "\n```\n\n"
