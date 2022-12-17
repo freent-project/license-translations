@@ -1,8 +1,10 @@
 import os
 import glob
 import time
-readme = "# FreeNT OpenWindows License\n"
+readme = "# FreeNT OpenWindows License\n\nThese are official, localized versions of the OpenWindows license created by the OpenWindows project.\n\n## Languages\n\n"
 f = open("readme.md", "w")
+for file in glob.glob("*/*.license"):
+  readme = readme + "[" + os.path.basename(file).split(".")[0] + "](#" + os.path.basename(file).split(".")[0] + ")\n"
 for file in glob.glob("*/*.license"):
   print(file + ":")
   print(open(file, "r").read())
