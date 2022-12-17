@@ -12,6 +12,8 @@ jobs:
         run: python readme_generate.py
       - name: Push
         run: |
+          git config --global user.email "actions-user@users.noreply.github.com"
+          git config --global user.name "actions-user"
           git add .
           git commit -m "Generate README"
           git push
