@@ -1,6 +1,6 @@
 # FreeNT OpenWindows License
 
-## 日本語.license
+## 日本語
 ```
      Open Windows ライセンス、バージョン 1.0
  (C) 2022 Open Windows オペレーティング システム プロジェクト
@@ -40,7 +40,7 @@
 ```
 
 
-## Pirate.license
+## Pirate
 ```
      Openwindows license, version 1.0
   (c) 2022 openwindows operatin' system project
@@ -80,7 +80,7 @@ end o' license
 ```
 
 
-## Latin.license
+## Latin
 ```
 OpenWindows License, Version 1.0
 (C) 2022 OpenWindows Operating System Project
@@ -118,7 +118,7 @@ DE LICENTIA
 ```
 
 
-## American English.license
+## American English
 ```
       OpenWindows License, Version 1.0
  (C) 2022 OpenWindows Operating System Project
@@ -158,7 +158,7 @@ END OF LICENSE
 ```
 
 
-## International English.license
+## International English
 ```
       OpenWindows Licence, Version 1.0
  (C) 2022 OpenWindows Operating System Project
