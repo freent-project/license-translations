@@ -14,3 +14,6 @@ jobs:
         with:
           commit-message: 'Generate README'
           remote: origin
+          branch: main
+          force: true
+          commit-files: "README.md"
