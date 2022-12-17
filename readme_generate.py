@@ -6,7 +6,7 @@ f = open("readme.md", "w")
 for file in glob.glob("*/*.license"):
   print(file + ":")
   print(open(file, "r").read())
-  readme = readme + "\n## " + file = "\n```" + open(file, "r").read() = "\n```\n\n"
+  readme = readme + "\n## " + file + "\n```" + open(file, "r").read() + "\n```\n\n"
 print("This is what the file will look like AFTER the readme is generated:")
 print(readme)
 print("Will write README in 3 seconds.")
