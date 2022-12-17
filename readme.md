@@ -1,7 +1,8 @@
 # FreeNT OpenWindows License
 
-## 日本語/日本-Japan.license
-```     Open Windows ライセンス、バージョン 1.0
+## 日本語.license
+```
+     Open Windows ライセンス、バージョン 1.0
  (C) 2022 Open Windows オペレーティング システム プロジェクト
          誰もが使用および配布を許可されています
          このドキュメントの逐語的なコピーですが、
@@ -39,8 +40,9 @@
 ```
 
 
-## Pirate/Pirate.license
-```     Openwindows license, version 1.0
+## Pirate.license
+```
+     Openwindows license, version 1.0
   (c) 2022 openwindows operatin' system project
   everybody be permitted to use an' distribute
     verbatim copies o' this here document, but
@@ -78,8 +80,9 @@ end o' license
 ```
 
 
-## Latin/Latin.license
-```OpenWindows License, Version 1.0
+## Latin.license
+```
+OpenWindows License, Version 1.0
 (C) 2022 OpenWindows Operating System Project
 Omnibus exemplaribus huius documenti ad verbum uti et distribuere licet, sed mutare non licet.
 
@@ -115,8 +118,9 @@ DE LICENTIA
 ```
 
 
-## English/America.license
-```      OpenWindows License, Version 1.0
+## American English.license
+```
+      OpenWindows License, Version 1.0
  (C) 2022 OpenWindows Operating System Project
   Everybody is permitted to use and distribute
     verbatim copies of this document, but
@@ -154,8 +158,9 @@ END OF LICENSE
 ```
 
 
-## English/International.license
-```      OpenWindows Licence, Version 1.0
+## International English.license
+```
+      OpenWindows Licence, Version 1.0
  (C) 2022 OpenWindows Operating System Project
   Everybody is permitted to use and distribute
     verbatim copies of this document, but
