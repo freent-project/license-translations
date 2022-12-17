@@ -16,4 +16,4 @@ jobs:
           git config --global user.name "actions-user"
           git add .
           git commit -m "Generate README"
-          git push
+          git push || exit 0
