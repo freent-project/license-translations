@@ -1,4 +1,4 @@
-# This is a workflow to stop PRs from incoming
+# This is a workflow to stop PRs from being opened
 name: Anti-PR
 
 on:
@@ -15,8 +15,10 @@ jobs:
          GITHUB_TOKEN: ${{ github.token }}
          # Message to show when the pull request is closed
          message: |
-            Translations are done by the OpenWindows Team and are not accepted here. Please request a language in Issues.
+            Translations are done by the OpenWindows Team and are not accepted here. Please [request a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml&title=Language+request%3A+).
             
             Hopefully the OpenWindows license will be available in your language sometime.
             
             Adios! ;)
+            
+            <div align="right">Signed,<br>The NT Bots</div>
