@@ -5,11 +5,11 @@ These are official, localized versions of the OpenWindows license created by the
 ## List of Languages
 
 - [English](#english)
-- [International English](#international-english)
-- [Latin](#latin)
-- [Pirate](#pirate)
-- [日本語](#日本語)
-## Languages
+- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!- [International English](#international-english)
+- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!- [Latin](#latin)
+- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!- [Pirate](#pirate)
+- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!- [日本語](#日本語)
+- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!## Languages
 ### English
 ```
       OpenWindows License, Version 1.0
