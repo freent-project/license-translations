@@ -7,7 +7,7 @@ These are official, localized versions of the OpenWindows license created by the
 - [日本語](#日本語)
 - [Pirate](#pirate)
 - [Latin](#latin)
-- [American English](#american-english)
+- [Original American English](#original-american-english)
 - [International English](#international-english)
 ## Languages
 ### 日本語
@@ -128,7 +128,7 @@ DE LICENTIA
 ```
 
 
-### American English
+### Original American English
 ```
       OpenWindows License, Version 1.0
  (C) 2022 OpenWindows Operating System Project
