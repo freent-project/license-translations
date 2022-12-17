@@ -5,6 +5,7 @@ readme = "# FreeNT OpenWindows License\n\nThese are official, localized versions
 f = open("readme.md", "w")
 for file in sorted(glob.glob("*/*.license")):
   readme = readme + "- [" + os.path.basename(file).split(".")[0] + "](#" + os.path.basename(file).split(".")[0].replace(" ", "-").lower() + ")\n"
+  readme = readme + "- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!"
 readme = readme + "## Languages"
 for file in sorted(glob.glob("*/*.license")):
   print(file + ":")
