@@ -1,12 +1,13 @@
 name: Language Request
 description: Request a new language
-title: "Language request: "
 body:
 - type: input
   id: language
   attributes:
     label: Language
     placeholder: Please type the full name of the language
+  validations:
+    required: true
 - type: checkboxes
   id: real-language
   attributes:
