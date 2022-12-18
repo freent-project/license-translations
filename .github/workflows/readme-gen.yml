@@ -8,6 +8,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Install Google Translate
+        run: pip install googletrans
       - name: Run README generator
         run: python readme_generate.py
       - name: Push
