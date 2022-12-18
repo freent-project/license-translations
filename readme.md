@@ -47,10 +47,8 @@ These are official, localized versions of the OpenWindows license created by the
   to make this software nonfree.
 
 END OF LICENSE
-
 ```
-
-
+You can get a copy of this license as text [here](/English/English.license) or ~~Braille~~ (*not yet, but soon*).
 ### International English
 ```
       OpenWindows Licence, Version 1.0
@@ -87,10 +85,8 @@ END OF LICENSE
   to make this software nonfree.
 
 END OF LICENCE
-
 ```
-
-
+You can get a copy of this license as text [here](/English/International English.license) or ~~Braille~~ (*not yet, but soon*).
 ### Latin
 ```
 OpenWindows License, Version 1.0
@@ -125,10 +121,8 @@ Omnibus exemplaribus huius documenti ad verbum uti et distribuere licet, sed mut
    ut hoc software nonfree.
 
 DE LICENTIA
-
 ```
-
-
+You can get a copy of this license as text [here](/Latin/Latin.license) or ~~Braille~~ (*not yet, but soon*).
 ### Pirate
 ```
      Openwindows license, version 1.0
@@ -165,10 +159,8 @@ DE LICENTIA
   to make this here software nonfree.
  
 end o' license
-
 ```
-
-
+You can get a copy of this license as text [here](/Pirate/Pirate.license) or ~~Braille~~ (*not yet, but soon*).
 ### 日本語
 ```
      Open Windows ライセンス、バージョン 1.0
@@ -205,6 +197,5 @@ end o' license
     このソフトウェアを不自由にすること。
 
 ライセンスの終了
-
 ```
-
+You can get a copy of this license as text [here](/日本語/日本語.license) or ~~Braille~~ (*not yet, but soon*).
