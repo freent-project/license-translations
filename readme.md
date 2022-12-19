@@ -49,7 +49,7 @@ These are official, localized versions of the OpenWindows license created by the
 END OF LICENCE
 ```
 Also available as:
-- [Plain text](/English/International English.license)
+- [Plain text](/English/International%20English.license)
 - ~~Braille~~ (not yet, but soon)
 ### US English
 ```
@@ -89,7 +89,7 @@ Also available as:
 END OF LICENSE
 ```
 Also available as:
-- [Plain text](/English/US English.license)
+- [Plain text](/English/US%20English.license)
 - ~~Braille~~ (not yet, but soon)
 ### Latin
 ```
@@ -207,5 +207,5 @@ Also available as:
 ライセンスの終了
 ```
 Also available as:
-- [Plain text](/日本語/日本語.license)
+- [Plain text](/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E6%97%A5%E6%9C%AC%E8%AA%9E.license)
 - ~~Braille~~ (not yet, but soon)
