@@ -4,53 +4,13 @@ These are official, localized versions of the OpenWindows license created by the
 
 ## List of Languages
 
-- [English](#english)
 - [International English](#international-english)
+- [US English](#us-english)
 - [Latin](#latin)
 - [Pirate](#pirate)
 - [日本語](#日本語)
 - Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!
 ## Languages
-### English
-```
-      OpenWindows License, Version 1.0
- (C) 2022 OpenWindows Operating System Project
-  Everybody is permitted to use and distribute
-    verbatim copies of this document, but
-      changing it is not allowed.
-
-1. PREAMBLE
-  The OpenWindows License is a license for open-source software,
-  including documentation. It helps the distribution of open-source
-  software by allowing distribution.
-  
-  The Microsoft Windows license is a proprietary license, and
-  this license was created for the OpenWindows project to prevent
-  Microsoft from trying to sue the OpenWindows project.
-  
-  This license is made for OpenWindows. You are also free to use the
-  OpenWindows License in your own software and documentation.
-
-2. DISTRIBUTION AND MODIFICATION CONDITIONS
-  You are free to copy, distribute, and modify this software with or
-  without permission, subject to these conditions:
-  
-    o The license and (if available) a copyright notice must be given with
-      ALL substanial copies of this software.
-    o You must not change the license to another. This license shall stay
-      enforced with all copies.
-    o If the code is used in a product, a link to the website or Git repository is
-      appreciated if possible but not required.
-
-3. PATENTS
-  Patent use is permitted, as long as patents that use this software do not attempt
-  to make this software nonfree.
-
-END OF LICENSE
-```
-Also available as:
-- [Plain text](/English/English.license)
-- ~~Braille~~ (not yet, but soon)
 ### International English
 ```
       OpenWindows Licence, Version 1.0
@@ -90,6 +50,46 @@ END OF LICENCE
 ```
 Also available as:
 - [Plain text](/English/International English.license)
+- ~~Braille~~ (not yet, but soon)
+### US English
+```
+      OpenWindows License, Version 1.0
+ (C) 2022 OpenWindows Operating System Project
+  Everybody is permitted to use and distribute
+    verbatim copies of this document, but
+      changing it is not allowed.
+
+1. PREAMBLE
+  The OpenWindows License is a license for open-source software,
+  including documentation. It helps the distribution of open-source
+  software by allowing distribution.
+  
+  The Microsoft Windows license is a proprietary license, and
+  this license was created for the OpenWindows project to prevent
+  Microsoft from trying to sue the OpenWindows project.
+  
+  This license is made for OpenWindows. You are also free to use the
+  OpenWindows License in your own software and documentation.
+
+2. DISTRIBUTION AND MODIFICATION CONDITIONS
+  You are free to copy, distribute, and modify this software with or
+  without permission, subject to these conditions:
+  
+    o The license and (if available) a copyright notice must be given with
+      ALL substanial copies of this software.
+    o You must not change the license to another. This license shall stay
+      enforced with all copies.
+    o If the code is used in a product, a link to the website or Git repository is
+      appreciated if possible but not required.
+
+3. PATENTS
+  Patent use is permitted, as long as patents that use this software do not attempt
+  to make this software nonfree.
+
+END OF LICENSE
+```
+Also available as:
+- [Plain text](/English/US English.license)
 - ~~Braille~~ (not yet, but soon)
 ### Latin
 ```
