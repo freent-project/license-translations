@@ -11,7 +11,12 @@ readme = readme + "## Languages"
 for file in sorted(glob.glob("*/*.license")):
   print(file + ":")
   print(open(file, "r").read())
-  readme = readme + "\n### " + os.path.basename(file).split(".")[0] + "\n```\n" + open(file, "r").read() + "```\nAlso available as:\n- [Plain text](/" + quote(file) + ")\n- ~~Braille~~ (not yet, but soon)"
+  if os.isfile(file.split(".")[0] + ".brl":
+    print("OWL Braille is available in " + os.path.basename(file).split(".")[0] + "! Linking to braille.")
+    readme = readme + "\n### " + os.path.basename(file).split(".")[0] + "\n```\n" + open(file, "r").read() + "```\nAlso available as:\n- [Plain text](/" + quote(file) + ")\n- [Braille](/" + file.split(".")[0] + ".brl" + ")"
+  else:
+    print("OWL Braille is not available in " + os.path.basename(file).split(".")[0] + ". Linking to plain text only.")
+    readme = readme + "\n### " + os.path.basename(file).split(".")[0] + "\n```\n" + open(file, "r").read() + "```\nAlso available as:\n- [Plain text](/" + quote(file) + ")\n- *A braille version is not available for this language.*"
 print("This is what the file will look like AFTER the readme is generated:")
 print(readme)
 print("Will write README in 3 seconds.")
