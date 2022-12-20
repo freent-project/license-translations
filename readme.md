@@ -90,7 +90,7 @@ END OF LICENSE
 ```
 Also available as:
 - [Plain text](/English/US%20English.license)
-- *A braille version is not available for this language.*
+- [Braille](/English/US English.brl)
 ### Latin
 ```
 OpenWindows License, Version 1.0
