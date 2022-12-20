@@ -50,7 +50,7 @@ END OF LICENCE
 ```
 Also available as:
 - [Plain text](/English/International%20English.license)
-- ~~Braille~~ (not yet, but soon)
+- *A braille version is not available for this language.*
 ### US English
 ```
       OpenWindows License, Version 1.0
@@ -90,7 +90,7 @@ END OF LICENSE
 ```
 Also available as:
 - [Plain text](/English/US%20English.license)
-- ~~Braille~~ (not yet, but soon)
+- *A braille version is not available for this language.*
 ### Latin
 ```
 OpenWindows License, Version 1.0
@@ -128,7 +128,7 @@ DE LICENTIA
 ```
 Also available as:
 - [Plain text](/Latin/Latin.license)
-- ~~Braille~~ (not yet, but soon)
+- *A braille version is not available for this language.*
 ### Pirate
 ```
      Openwindows license, version 1.0
@@ -168,7 +168,7 @@ end o' license
 ```
 Also available as:
 - [Plain text](/Pirate/Pirate.license)
-- ~~Braille~~ (not yet, but soon)
+- *A braille version is not available for this language.*
 ### 日本語
 ```
      Open Windows ライセンス、バージョン 1.0
@@ -208,4 +208,4 @@ Also available as:
 ```
 Also available as:
 - [Plain text](/%E6%97%A5%E6%9C%AC%E8%AA%9E/%E6%97%A5%E6%9C%AC%E8%AA%9E.license)
-- ~~Braille~~ (not yet, but soon)
+- *A braille version is not available for this language.*
