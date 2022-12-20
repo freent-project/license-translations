@@ -11,7 +11,7 @@ readme = readme + "## Languages"
 for file in sorted(glob.glob("*/*.license")):
   print(file + ":")
   print(open(file, "r").read())
-  if os.isfile(file.split(".")[0] + ".brl":
+  if os.isfile(file.split(".")[0] + ".brl"):
     print("OWL Braille is available in " + os.path.basename(file).split(".")[0] + "! Linking to braille.")
     readme = readme + "\n### " + os.path.basename(file).split(".")[0] + "\n```\n" + open(file, "r").read() + "```\nAlso available as:\n- [Plain text](/" + quote(file) + ")\n- [Braille](/" + file.split(".")[0] + ".brl" + ")"
   else:
