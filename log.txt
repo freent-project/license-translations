@@ -1,4 +1,0 @@
-  File "/home/runner/work/license-translations/license-translations/readme_generate.py", line 4
-    imprt os
-          ^^
-SyntaxError: invalid syntax
