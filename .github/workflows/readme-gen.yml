@@ -4,6 +4,7 @@ on: [workflow_dispatch, push]
 
 jobs:
   generate:
+    name: README generator
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -18,4 +19,4 @@ jobs:
           git commit -m "Generate README"
           git push || exit 0
       - name: Show new README as job summary
-        run: echo "**The new README has been generated!**\n$(cat README.md)" >> $GITHUB_STEP_SUMMARY
+        run: echo "**The new README has been generated!**$(cat readme.md)" >> $GITHUB_STEP_SUMMARY
