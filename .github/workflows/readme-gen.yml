@@ -10,7 +10,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Run README generator
-        run: python readme_generate.py || echo "**Error generating the README.**<br>Please check the workflow logs for more information." > $GITHUB_STEP_SUMMARY && exit 1
+        run: |
+          function error {
+            'echo "**Error generating the README.**<br>Please check the workflow logs for more information." > $GITHUB_STEP_SUMMARY && exit 1'
+          }
+          python readme_generate.py || error
       - name: Push
         run: |
           rm log.txt
