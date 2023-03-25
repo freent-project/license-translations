@@ -12,7 +12,7 @@ jobs:
       - name: Run README generator
         run: |
           function error {
-            'echo "**Error generating the README.**<br>Please check the workflow logs for more information." > $GITHUB_STEP_SUMMARY && exit 1'
+            echo "**Error generating the README.**<br>Please check the workflow logs for more information." > $GITHUB_STEP_SUMMARY && exit 1
           }
           python readme_generate.py || error
       - name: Push
