@@ -10,7 +10,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Run README generator
-        run: python readme_generate.py 3>&1 1>>log.txt 2>&1 || echo -e "**Error generating the README.**<br>Logs have been provided below for debugging purposes.\n\n```\n$(cat log.txt)\n```" >> $GITHUB_STEP_SUMMARY && exit 1
+        run: python readme_generate.py > log.txt || echo -e "**Error generating the README.**<br>Logs have been provided below for debugging purposes.\n\n\`\`\`\n$(cat log.txt)\n\`\`\`" >> $GITHUB_STEP_SUMMARY && exit 1
       - name: Push
         run: |
           rm log.txt
