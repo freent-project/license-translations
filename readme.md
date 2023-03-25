@@ -4,13 +4,13 @@ These are official, localized versions of the OpenWindows license created by the
 
 ## List of Languages
 
-- [International English (UK)](#international-english-(uk))
+- [UK English](#uk-english)
 - [US English](#us-english)
 - [Pirate](#pirate)
 - [日本語](#日本語)
 - Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!
 ## Languages
-### International English (UK)
+### UK English
 ```
       OpenWindows Licence, Version 1.0
  (C) 2022 OpenWindows Operating System Project
@@ -48,7 +48,7 @@ These are official, localized versions of the OpenWindows license created by the
 END OF LICENCE
 ```
 Also available as:
-- [Plain text](/English/International%20English%20%28UK%29.license)
+- [Plain text](/English/UK%20English.license)
 - *A braille version is not available for this language.*
 ### US English
 ```
