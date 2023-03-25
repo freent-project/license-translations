@@ -1,6 +1,6 @@
-# FreeNT OpenWidows License
+# FreeNT OpenWindows License
 
-These are official, localized versions of the OpenWindows license created by the OpenWindows project
+These are official, localized versions of the OpenWindows license created by the OpenWindows project.
 
 ## List of Languages
 
@@ -8,11 +8,11 @@ These are official, localized versions of the OpenWindows license created by the
 - [US English](#us-english)
 - [Pirate](#pirate)
 - [日本語](#日本語)
-- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)
+- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!
 ## Languages
 ### UK English
 ```
-      OpenWindows Licenc, Version 1.0
+      OpenWindows Licence, Version 1.0
  (C) 2022 OpenWindows Operating System Project
   Everybody is permitted to use and distribute
     verbatim copies of this document, but
