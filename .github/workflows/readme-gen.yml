@@ -17,7 +17,6 @@ jobs:
           python readme_generate.py || error
       - name: Push
         run: |
-          rm log.txt
           git config --global user.email "actions-user@users.noreply.github.com"
           git config --global user.name "actions-user"
           git add .
