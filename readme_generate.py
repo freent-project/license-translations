@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # Python 3 script to create a Markdown document with a list of languages,
 # and the contents of .license files.
-import os
+imprt os
 import glob
 import time
 from urllib.parse import quote
