@@ -7,8 +7,6 @@ jobs:
     name: README generator
     runs-on: ubuntu-latest
     steps:
-      - name: Show generating message as job summary
-        run: echo -e "*Please wait while the generator finishes its job.*" >> $GITHUB_STEP_SUMMARY
       - name: Checkout
         uses: actions/checkout@v3
       - name: Run README generator
