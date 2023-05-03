@@ -11,7 +11,9 @@ body:
 - type: checkboxes
   id: real-language
   attributes:
-    label: By submitting this request, you agree that this language actually exists.
+    label: Requirements
     options:
-      - label: I agree
+      - label: I agree that this language belongs to a specific region or ethnic group, and it is not a fictional language.
+        required: true
+      - label: I agree that any language that does not follow the rules above will be rejected by the translation team.
         required: true
