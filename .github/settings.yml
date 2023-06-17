@@ -3,6 +3,7 @@ repository:
 
   # The name of the repository. Changing this will rename the repository
   name: license-translations
+  description: Localized versions of the OpenWindows license created by the FreeNT project
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
