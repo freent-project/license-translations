@@ -2,7 +2,7 @@ repository:
   # See https://developer.github.com/v3/repos/#edit for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: openwindows-license-translate
+  name: license-translations
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
