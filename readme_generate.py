@@ -17,7 +17,8 @@ readme = f"""{added_info}
 -->
 # FreeNT OpenWindows License
 These are official, localized versions of the OpenWindows license created by the OpenWindows project.
-## List of Languages"""
+## List of Languages
+"""
 f = open("readme.md", "w")
 for file in sorted(glob.glob("*/*.license")):
   readme = readme + "- [" + os.path.basename(file).split(".")[0] + "](#" + os.path.basename(file).split(".")[0].replace(" ", "-").lower() + ")\n"
