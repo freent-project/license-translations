@@ -9,7 +9,8 @@ The FreeNT Project is lacking translators, and we need your help. Feel free to a
 -->
 # FreeNT OpenWindows License
 These are official, localized versions of the OpenWindows license created by the OpenWindows project.
-## List of Languages- [UK English](#uk-english)
+## List of Languages
+- [UK English](#uk-english)
 - [US English](#us-english)
 - [Pirate](#pirate)
 - [日本語](#日本語)
