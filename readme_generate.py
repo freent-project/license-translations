@@ -5,7 +5,7 @@ import os
 import glob
 import time
 from urllib.parse import quote
-from datetime import now as gendate
+from datetime import datetime.now as gendate
 added_info = """## Looking for Translators
 
 The FreeNT Project is lacking translators, and we need your help. Feel free to add your language ;)
