@@ -1,2 +1,1 @@
-# Stay away, linguist!
-* linguist-vendorable=false
+*.license linguist-detectable
