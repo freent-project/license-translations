@@ -24,7 +24,7 @@ These are official, localized versions of the OpenWindows license created by the
 """
 f = open("readme.md", "w")
 for file in sorted(glob.glob("*/*.license")):
-  readme = readme + "- [" + os.path.basename(file).split(".")[0] + "](#" + os.path.basename(file).split(".")[0].replace(" ", "-").lower() + ")\n"
+  readme = readme + "- [" + os.path.basename(file).split(".")[0] + "](#" + os.path.basename(file).split(".")[0].replace(" ", "-").lower().quote() + ")\n"
 readme = readme + "- Not listed? [Submit a language](https://github.com/freent-project/license-translations/issues/new?assignees=&labels=&template=language.yml)!\n"
 readme = readme + "## Languages"
 for file in sorted(glob.glob("*/*.license")):
